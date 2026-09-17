@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=150&pause=1500&color=FFD700&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there!+I'm+Eshwitha+👋)](https://git.io/typing-svg)
+
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on QA testing, automation, and software quality projects<br>👯 I’m looking to collaborate on QA, automation, and open-source projects<br>🤝 I’m looking for help with advanced test automation and DevOps practices<br>🌱 I’m currently learning Playwright, CI/CD, and cloud technologies<br>💬 Ask me about Selenium, API testing, SQL, Jira, Postman, and Agile/Scrum<br>⚡ Fun fact: I enjoy finding bugs before users do! 🐞<br>
 
